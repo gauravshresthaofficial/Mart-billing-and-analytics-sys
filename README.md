@@ -1,7 +1,9 @@
-# Project Name
+# Mart Billing and Analytics System
+## Author:  Gaurav Shrestha
 
 ## Table of Contents
 - [Overview](#overview)
+- [Screenshot](#Screenshot)
 - [Installation](#installation)
 - [Scripts](#scripts)
 - [Environment Variables](#environment-variables)
@@ -10,7 +12,17 @@
 - [Usage](#usage)
 
 ## Overview
+The Mart Billing and Analytics System is a sophisticated web-based platform designed to optimize the billing and analytical processes for retail marts. This system addresses the needs of mart owners by offering comprehensive functionalities to generate, manage, and analyze bills while providing insightful data visualization to enhance business decision-making. 
+
 This project consists of a frontend and backend application. The frontend is built using React and Vite, while the backend is built using Node.js and Express.
+
+## Screenshot
+### Dashboard
+![Screenshot](assets/Picture.jpg)
+### Bill Page
+![Screenshot](assets/Bill%20page.jpg)
+### Product Sales Comparison
+![Screenshot](assets/Productcomparison.png)
 
 ## Installation
 
